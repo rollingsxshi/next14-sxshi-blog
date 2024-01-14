@@ -13,6 +13,9 @@ npm run dev
 
 # fetch data
 npm i next-sanity @sanity/image-url @portabletext/react
+
+# deploy to sanity (ensure in sanity dir)
+npm run deploy
 ```
 
 ## Shadcn UI
